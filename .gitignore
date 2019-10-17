@@ -1,0 +1,7 @@
+
+radforest/test.py
+__pycache__/
+*.pyc
+test.py
+*.egg-info
+*desktop.ini
